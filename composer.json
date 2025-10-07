@@ -1,5 +1,5 @@
 {
-    "name": "codezero/laravel-uri-translator",
+    "name": "cdo9/laravel-uri-translator",
     "description": "Translate a URI or individual slugs.",
     "keywords": [
         "php",
@@ -15,8 +15,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Ivan Vermeyen",
-            "email": "ivan@codezero.be"
+            "name": "cdo9"
         }
     ],
     "require": {
